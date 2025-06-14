@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee3600f86ab94dad891f0c9a8e13d272, type: 3}
+  m_Name: URLConfig
+  m_EditorClassIdentifier: 
+  _localesURL: https://docs.google.com/spreadsheets/d/1oIT_Y_a8SpBJ2q5sIkJDIKuUSbyH9pZhR1mbl0YzbWQ/export?format=csv
